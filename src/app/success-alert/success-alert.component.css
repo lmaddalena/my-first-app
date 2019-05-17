@@ -1,0 +1,10 @@
+p {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: darkgreen;
+    background-color: lightgreen;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkgreen;
+    padding: 10px;
+}
